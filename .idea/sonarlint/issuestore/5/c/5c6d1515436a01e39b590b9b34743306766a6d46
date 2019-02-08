@@ -1,0 +1,6 @@
+
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ü«àŸ8£‰¶ÓŒ-
+fsquid:S4488%"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(Õ¿–Å8êŒüÓŒ-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Â‰õÒŒ-
+hsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Þ­˜»8Ø„³ÓŒ-
+lsquid:S4488+"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(¥˜›Ù8Å„šÔŒ-
